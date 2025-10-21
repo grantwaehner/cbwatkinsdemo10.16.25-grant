@@ -22,12 +22,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # title of site appears in banner
 title: New York in the 1900's
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: From Upper Manhattan to Downton Manhattan and beyond
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: A collection and timeline of historical jazz clubs in New York City in the 1900's
+description: A collection and timeline of historical jazz clubs and the music shift in New York City in the 1900's
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Grant Jamieson Waehner
 
 ##########
 # COLLECTION SETTINGS
